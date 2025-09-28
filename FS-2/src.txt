@@ -1,0 +1,6 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+1234567890 !@#$%^&*()_+-=[]{}|;:',.<>/?~
+The quick brown fox jumps over the lazy dog.
+C++ streams handle both text and binary data.
+End of file test → this line is intentionally short.
+
