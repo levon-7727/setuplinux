@@ -1,4 +1,5 @@
 *.o
+
 ENV-2/complex_sort
 FS-1/read-file
 FS-2/simple-copy
